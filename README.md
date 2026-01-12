@@ -1,8 +1,6 @@
 # 💫 About Me
 
 ## Shivam Agrawal
-📍 Noida, India  
-📧 shivamagrawal022001@gmail.com  
 🔗 https://linkedin.com/in/shivam-agrawal02  
 
 ---
@@ -58,6 +56,9 @@ OOP, SOLID Principles, REST APIs, Asynchronous Programming, DSA
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivamagrawal02&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Shivamagrawal02&theme=dark&hide_border=true)
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ShivamAgrawal02&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
