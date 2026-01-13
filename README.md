@@ -1,8 +1,9 @@
 # 💫 About Me
 
-## Shivam Agrawal
+## 👋 Hey there, I’m Shivam Agrawal
 🔗 https://linkedin.com/in/shivam-agrawal02  
 
+Welcome to my profile! I’m a Full Stack software engineer who enjoys building reliable systems, solving real-world problems, and continuously improving my technical skills. If you’re here to explore my work, collaborate, or just get to know me better — you’re most welcome 🚀
 ---
 
 ## 👨‍💻 Professional Summary
