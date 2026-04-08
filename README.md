@@ -106,17 +106,3 @@ Delivered 3 production projects across monitoring, automation, and sales domains
 `REST APIs` `Asynchronous Programming` `Parallel Processing` `Distributed Systems`
 `Entity Framework Core` `LINQ` `OOP` `SOLID Principles` `Microservices` `DSA`
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamAgrawal02&show_icons=true&theme=tokyonight&cache_seconds=86400" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamAgrawal02&layout=compact&theme=tokyonight&cache_seconds=86400" width="48%"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivamAgrawal02&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
