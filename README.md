@@ -68,18 +68,6 @@ Here is the tech stack I use to bring ideas to life:
   
 </div>
 
----
-
-## 📈 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" alt="GitHub Streak" />
-</div>
-
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub username!)*
-
----
 
 <div align="center">
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
