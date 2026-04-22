@@ -1,30 +1,86 @@
-## 📌 PROFILE SUMMARY — Audit & Final Polish
+<div align="center">
+  <h1>Hi there, I'm Shivam Agrawal! 👋</h1>
+  <h3>Building Scalable Backend Systems & Dynamic Web Interfaces</h3>
+  
+  <p>
+    <b>.NET Full Stack Developer</b> @ Tech Mahindra | Passionate about clean architecture, performance optimization, and distributed systems.
+  </p>
 
-Ah, I see! You shared your *current* profile summary. It is actually quite good compared to most I see, but it has a few algorithm traps we need to fix. 
-
-### 🔴 What’s holding your current summary back:
-1. **The Zoho/Deluge Trap:** Having "Zoho Creator & Deluge" in your summary text actively hurts you. It confuses the ATS and causes recruiters looking for pure coding roles to second-guess your experience.
-2. **Missing High-Value Architecture Keywords:** It lacks "Microservices", "CQRS", "Dependency Injection", and "LINQ" — which are what senior recruiters search for to filter out entry-level devs.
-3. **Format:** Your current one reads a bit like a bulleted list pasted into a paragraph. Naukri summaries index better when they flow naturally but are packed with keywords.
-
-Here is the **Ultimate Hybrid Summary**. I took the best parts of your current one (like mentioning your B.Tech and PAN India) and merged them with the high-search keywords from my earlier version:
-
----
-
-### ✅ Optimized Profile Summary (Copy-Paste Ready)
-
-```text
-Results-driven .NET Full Stack Developer with 2 years of experience at Tech Mahindra, specializing in scalable, production-grade web applications using ASP.NET Core (.NET 8), C#, Angular, and Microservices architecture. Proficient in designing RESTful Web APIs, implementing CQRS with MediatR, and managing both relational (SQL Server, MySQL) and NoSQL (MongoDB) databases using EF Core. Proven track record of high-impact optimization: upgraded legacy systems to .NET 8 (reducing load times by 94%) and slashed server refresh time from 8–10 mins to under 30 secs using async/parallel processing and ConcurrentDictionary. Built 3 robust distributed systems (ACM, Automator, DIGenx) utilizing RabbitMQ for message-driven communication and clean architecture principles. B.Tech in CSE (78%). Actively seeking Full Stack / .NET Developer roles in MNCs, product-based companies, or startups. Open to PAN India opportunities.
-```
-
----
-
-### 🔍 Why this is a 10/10 for the Algorithm:
-* **Removes the low-code tools** (Zoho/Deluge) entirely.
-* **Adds the heavy-hitters:** "Microservices", "CQRS", "MediatR", "Clean Architecture".
-* **Keeps your strongest flexes:** 94% load reduction, 30-sec refresh time, and `ConcurrentDictionary`.
-* **Mentions your degree:** Recruiters often put "B.Tech" or "CSE" as a mandatory keyword filter.
+  <p>
+    <a href="https://linkedin.com/in/shivam-agrawal02">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:shivamagrawal022001@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-**👉 Update your Naukri summary with this text. If you're ready, say "Next" and I will give you the FINAL 5 Secret Algorithm Hacks (Section 5) to keep your profile permanently on Page 1 of recruiter searches!**
+## 👨‍💻 A Little About Me
+
+Welcome to my GitHub! I'm a Full Stack Developer with a strong leaning towards backend engineering. I love taking complex, data-heavy enterprise problems and building elegant, high-performance solutions for them. 
+
+Right now, I spend my days working with the **.NET 8** ecosystem, architecting APIs, and exploring the world of **Microservices** and **Event-Driven Architecture**. 
+
+- 🏢 **Currently working at:** Tech Mahindra as a Full Stack Developer
+- 🌱 **Currently learning:** Advanced Microservices patterns, CQRS with MediatR, and Cloud (Azure)
+- 💬 **Ask me about:** C#, ASP.NET Core, Angular, Async Programming, and Performance Tuning
+- ⚡ **Fun Fact:** I once reduced a server refresh mechanism from 10 minutes to under 30 seconds, and I haven't stopped chasing performance gains since!
+
+---
+
+## 🚀 What I'm Proud Of
+
+Instead of just listing my daily tasks, here are a few engineering challenges I've tackled that I'm genuinely proud of:
+
+🏆 **The 95% Performance Jump:** Re-architected a legacy server health monitoring engine using `async/await` and `ConcurrentDictionary`. Slashed the refresh time from 8–10 minutes down to **under 30 seconds**, enabling near real-time monitoring.
+
+🚀 **The .NET 8 Migration:** Spearheaded the modernization of a legacy enterprise app from .NET Core 2.1 all the way to **.NET 8**. Result? A **94% faster page load time** and a much happier user base.
+
+⚙️ **Event-Driven Test Automation:** Built a distributed mass test-case upload system leveraging **RabbitMQ** for async message-driven communication between a Web API, a job scheduler, and an upload engine.
+
+---
+
+## 🛠️ My Tech Toolbox
+
+Here is the tech stack I use to bring ideas to life:
+
+<div align="center">
+  
+  **Backend & Architecture**<br>
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+  ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Web API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=databricks&logoColor=white)
+  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+  **Frontend**<br>
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+  **Databases & ORM**<br>
+  ![Entity Framework Core](https://img.shields.io/badge/EF_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  
+</div>
+
+---
+
+## 📈 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" alt="GitHub Streak" />
+</div>
+
+*(Note: Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub username!)*
+
+---
+
+<div align="center">
+  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+</div>
