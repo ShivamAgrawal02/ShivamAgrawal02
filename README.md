@@ -1,108 +1,30 @@
-<h1 align="center">Hi 👋, I'm Shivam Agrawal</h1>
-<h3 align="center">Full Stack Developer | ASP.NET Core • Angular • C# • Web API</h3>
+## 📌 PROFILE SUMMARY — Audit & Final Polish
 
-<p align="center">
-  <a href="https://linkedin.com/in/shivam-agrawal02">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shivamagrawal022001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Ah, I see! You shared your *current* profile summary. It is actually quite good compared to most I see, but it has a few algorithm traps we need to fix. 
 
----
+### 🔴 What’s holding your current summary back:
+1. **The Zoho/Deluge Trap:** Having "Zoho Creator & Deluge" in your summary text actively hurts you. It confuses the ATS and causes recruiters looking for pure coding roles to second-guess your experience.
+2. **Missing High-Value Architecture Keywords:** It lacks "Microservices", "CQRS", "Dependency Injection", and "LINQ" — which are what senior recruiters search for to filter out entry-level devs.
+3. **Format:** Your current one reads a bit like a bulleted list pasted into a paragraph. Naukri summaries index better when they flow naturally but are packed with keywords.
 
-## 👨‍💻 About Me
-
-- 🏢 Full Stack Developer at **Tech Mahindra** (2 years)
-- ⚡ Reduced server status refresh time from **8–10 minutes to under 30 seconds**
-  using async & parallel processing
-- 🔼 Upgraded enterprise app from **.NET Core 2.1 to .NET 8**
-- 🛠️ Building production systems with **ASP.NET Core, Angular, C#, SQL Server,
-  MongoDB & RabbitMQ**
-- 🌱 Exploring **Microservices architecture & System Design**
-- 📍 Open to full-time opportunities **PAN India**
+Here is the **Ultimate Hybrid Summary**. I took the best parts of your current one (like mentioning your B.Tech and PAN India) and merged them with the high-search keywords from my earlier version:
 
 ---
 
-## 🚀 Professional Summary
+### ✅ Optimized Profile Summary (Copy-Paste Ready)
 
-Full Stack Developer with **2 years of experience** at Tech Mahindra, building and
-maintaining **enterprise-grade systems** using **ASP.NET Core (.NET 8)** and
-**Angular**.
-
-Experienced in **REST API development**, **distributed systems**, **legacy
-modernization**, **asynchronous processing**, and **database optimization**.
-Delivered 3 production projects across monitoring, automation, and sales domains.
+```text
+Results-driven .NET Full Stack Developer with 2 years of experience at Tech Mahindra, specializing in scalable, production-grade web applications using ASP.NET Core (.NET 8), C#, Angular, and Microservices architecture. Proficient in designing RESTful Web APIs, implementing CQRS with MediatR, and managing both relational (SQL Server, MySQL) and NoSQL (MongoDB) databases using EF Core. Proven track record of high-impact optimization: upgraded legacy systems to .NET 8 (reducing load times by 94%) and slashed server refresh time from 8–10 mins to under 30 secs using async/parallel processing and ConcurrentDictionary. Built 3 robust distributed systems (ACM, Automator, DIGenx) utilizing RabbitMQ for message-driven communication and clean architecture principles. B.Tech in CSE (78%). Actively seeking Full Stack / .NET Developer roles in MNCs, product-based companies, or startups. Open to PAN India opportunities.
+```
 
 ---
 
-## 💼 Featured Projects
-
-### 🖥️ ACM — Auto Config Manager (Central Monitoring System)
-> Real-time server & device health monitoring across multiple environments
-
-- Redesigned refresh mechanism using **async & parallel processing**
-- Reduced refresh time from **8–10 mins → under 30 seconds**
-- Implemented **thread-safe state management** using `ConcurrentDictionary`
-- **Stack:** ASP.NET Core, C#, Angular, MongoDB, REST APIs
+### 🔍 Why this is a 10/10 for the Algorithm:
+* **Removes the low-code tools** (Zoho/Deluge) entirely.
+* **Adds the heavy-hitters:** "Microservices", "CQRS", "MediatR", "Clean Architecture".
+* **Keeps your strongest flexes:** 94% load reduction, 30-sec refresh time, and `ConcurrentDictionary`.
+* **Mentions your degree:** Recruiters often put "B.Tech" or "CSE" as a mandatory keyword filter.
 
 ---
 
-### ⚙️ Automator — Mass Test Case Upload System
-> Distributed system for uploading large volumes of test cases for enterprise clients
-
-- Implemented **end-to-end Test Cycle Type support** across API, job engine
-  & upload engine
-- Built **schema detection & format-specific Excel parsing** for multiple
-  template formats
-- Ensured **backward compatibility** for legacy and new Excel formats
-- **Stack:** ASP.NET Core, C#, Angular, SQL Server, RabbitMQ, Excel Processing
-
----
-
-### 📊 DIGenx — Sales Opportunity & Quotation Management
-> End-to-end sales lifecycle management with dynamic document generation
-
-- Upgraded application from **.NET Core 2.1 to .NET 8**
-- Developed **dynamic PDF quote generation** with structured tables,
-  headers & footers
-- Implemented **automated email workflows** for opportunity lifecycle events
-- **Stack:** ASP.NET Core (.NET 8), C#, Angular, MySQL, Entity Framework Core
-
----
-
-## 🛠️ Tech Stack
-
-**Backend**
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Databases**
-
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Messaging**
-
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🧠 Core Concepts
-
-`REST APIs` `Asynchronous Programming` `Parallel Processing` `Distributed Systems`
-`Entity Framework Core` `LINQ` `OOP` `SOLID Principles` `Microservices` `DSA`
-
+**👉 Update your Naukri summary with this text. If you're ready, say "Next" and I will give you the FINAL 5 Secret Algorithm Hacks (Section 5) to keep your profile permanently on Page 1 of recruiter searches!**
