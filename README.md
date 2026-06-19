@@ -1,5 +1,3 @@
-Here you go — complete README, no GitHub Stats section:
-
 <div align="center">
   
   # Hey, I'm Shivam Agrawal 👋
@@ -20,7 +18,6 @@ Here you go — complete README, no GitHub Stats section:
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=ShivamAgrawal02&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -187,7 +184,3 @@ If you're working on something cool or have an opportunity to collaborate — le
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
 </div>
-
----
-
-That's the complete README with the GitHub Stats section removed. Just copy everything above into your `ShivamAgrawal02/ShivamAgrawal02` repo's `README.md` and push! 🚀
