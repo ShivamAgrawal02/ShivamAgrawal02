@@ -1,3 +1,5 @@
+Here you go — complete README, no GitHub Stats section:
+
 <div align="center">
   
   # Hey, I'm Shivam Agrawal 👋
@@ -151,28 +153,6 @@ I take complex, data-heavy enterprise problems and turn them into clean, high-pe
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamAgrawal02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&count_private=true" height="170" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamAgrawal02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" height="170" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamAgrawal02&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamAgrawal02&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Contribution Graph" width="95%" />
-</div>
-
----
-
 ## 🏅 Recognition
 
 <table>
@@ -207,3 +187,7 @@ If you're working on something cool or have an opportunity to collaborate — le
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
 </div>
+
+---
+
+That's the complete README with the GitHub Stats section removed. Just copy everything above into your `ShivamAgrawal02/ShivamAgrawal02` repo's `README.md` and push! 🚀
