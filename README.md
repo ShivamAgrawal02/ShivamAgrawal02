@@ -6,15 +6,10 @@
 
   <br/>
 
-  <a href="https://linkedin.com/in/shivam-agrawal02">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shivamagrawal022001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ShivamAgrawal02">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://linkedin.com/in/shivam-agrawal02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shivamagrawal022001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/ShivamAgrawal02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
 
   <br/>
 
@@ -170,12 +165,8 @@ I'm always open to discussing **backend architecture**, **performance optimizati
 
 If you're working on something cool or have an opportunity to collaborate — let's talk!
 
-<a href="https://linkedin.com/in/shivam-agrawal02">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:shivamagrawal022001@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://linkedin.com/in/shivam-agrawal02"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:shivamagrawal022001@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 
 </div>
 
