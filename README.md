@@ -2,7 +2,7 @@
   
   # Hey, I'm Shivam Agrawal 👋
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=.NET+Full+Stack+Developer;Building+Scalable+Backend+Systems;2%2B+Years+in+Enterprise+Engineering;Clean+Architecture+%7C+Performance+Obsessed" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=.NET+Full+Stack+Developer;Building+Scalable+Backend+Systems;2.5%2B+Years+in+Enterprise+Engineering;Clean+Architecture+%7C+Performance+Obsessed" alt="Typing SVG" /></a>
 
   <br/>
 
@@ -10,9 +10,7 @@
 <a href="mailto:shivamagrawal022001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/ShivamAgrawal02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-
   <br/>
-
 
 </div>
 
@@ -20,12 +18,13 @@
 
 ## 🧑‍💻 About Me
 
-**Full Stack Developer @ Tech Mahindra** — 2+ years building and modernizing enterprise backend systems with **ASP.NET Core (.NET 8)** and **Angular**.
+**Associate Business Analyst @ Infosys** | **.NET Full Stack Developer** — 2.5+ years building and modernizing enterprise backend systems with **ASP.NET Core (.NET 8)** and **Angular**.
 
 I take complex, data-heavy enterprise problems and turn them into clean, high-performance solutions. I independently own features end-to-end — from REST API design and SQL optimization to Angular UI.
 
 ```text
-🏢  Working at       Tech Mahindra, Noida — Associate Software Engineer
+🏢  Working at       Infosys, Pune — Associate Business Analyst
+🔙  Previously       Tech Mahindra, Noida — Associate Software Engineer (Mar 2024 – Sep 2026)
 🎯  Focused on       Microservices, CQRS with MediatR, Event-Driven Architecture
 ☁️  Exploring        Azure Cloud Services, Distributed Systems, Docker
 🏅  Recognized       Bravo Award 2024 — for high-impact individual contributions
@@ -165,8 +164,8 @@ I'm always open to discussing **backend architecture**, **performance optimizati
 
 If you're working on something cool or have an opportunity to collaborate — let's talk!
 
-<a href="https://linkedin.com/in/shivam-agrawal02"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:shivamagrawal022001@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
+<a href="https://linkedin.com/in/shivam-agrawal02"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shivamagrawal022001@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
